@@ -24,7 +24,7 @@ global segundos_cont
 global flow
 
 # inicializando minhas variáveis globais
-limitador = 60
+limitador = 5
 tempo_def = '00:00:00'
 segundos_cont = 0
 
